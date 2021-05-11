@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor&display=swap');
+
+body{
+    font-family: 'Kdam Thmor', cursive;
+    
+    
+}
+.type{
+    background-color: blue;
+    border-radius: 0.5ch;
+    color: white;
+    font-size: 5ch;
+}
+.cont{
+    background-color: blue;
+    border-radius: 0.5ch;
+    color: white;
+    font-size: 5ch;
+}
+.ink{
+    background-color: blue;
+    border-radius: 0.5ch;
+    color: white;
+    font-size: 5ch;
+}
+.link{
+    background-color: rgb(235, 8, 8);
+    text-decoration-line: none;
+    border-radius: 0.5ch;
+    font-size: 5ch;
+    border-style: solid;
+    color:black;
+    
+
+}
+.list{
+    background-color: blue;
+    border-radius: 0.5ch;
+    color: white;
+    font-size: 5ch;
+}
+.non{
+    list-style: none;
+}
+.bob{
+    list-style-type:square;
+}
+ .navigation{
+     background-color: blue;
+     border-radius: 0.5ch;
+     color: white;
+     font-size: 5ch;
+ }
+ .home{
+     text-decoration-line: none;
+     background-color: red;
+     color: black;
+     border-radius: 5ch;
+     border-style: solid;
+     font-size: 2ch;
+     
+     
+     
+ }
+ .pro{
+    text-decoration-line: none;
+     background-color: red;
+     color: black;
+     border-radius: 5ch;
+     border-style: solid;
+     font-size: 2ch;
+     
+      
+ }
+ .sub{
+     margin: 8px 0px;
+ }
+
+
+
+
+
+
+ .head{
+    background-color: blue;
+    border-radius: 0.5ch;
+    color: white;
+    font-size: 5ch;
+ }
